@@ -12,7 +12,7 @@ And it will contain 103 rows having 103 unique neighbourhoods of Toronto and 5 u
 #### Second Dataset: List of different venues in the neighbourhoods of Toronto:
 
 This dataset will be formed using the Foursquare API. I will use the Foursquare location data to explore different venues in each neighbourhood of Toronto.
-The venues can be any place. For example: Park, Coffee Shop, Hotels, Gyms, etc. 
-Using the Foursquare location data, I can get information about these venues and analyze the neighbourhoods of Toronto more easily based on this information.
+These venues can be any place. For example: Parks, Coffee Shops, Hotels, Gyms, etc. 
+Using the Foursquare location data, I can get information about these venues and analyze the neighbourhoods of Toronto easily based on this information.
 
 **In general, I will be using these two datasets to solve the business problem of finding the best place to open a restaurant within Toronto**
