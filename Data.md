@@ -12,6 +12,8 @@ And it will contain 103 rows having 103 unique neighbourhoods of Toronto and 5 u
 Here is a screenshot of first five rows of the final dataframe:
 ![dataframe screenshot](https://github.com/akshatsinghal92/Coursera_Capstone/blob/master/Images/df_1.JPG)
 
+For example, above we can see that first row contains a Borough named **North York** which contains one neighbourhood named **Parkwoods** and has a Postal code of **M3A**. The geographical coordinates of this neighbourhood is **(43.753259,-79.329656)**.
+
 ### Second Dataset: List of different venues in the neighbourhoods of Toronto:
 
 This dataset will be formed using the Foursquare API. I will use the Foursquare location data to explore different venues in each neighbourhood of Toronto.
