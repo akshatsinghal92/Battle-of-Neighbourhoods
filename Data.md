@@ -20,4 +20,10 @@ This dataset will be formed using the Foursquare API. I will use the Foursquare 
 These venues can be any place. For example: Parks, Coffee Shops, Hotels, Gyms, etc. 
 Using the Foursquare location data, I can get information about these venues and analyze the neighbourhoods of Toronto easily based on this information.
 
+We will use the geographical coordinates from above dataset to generate this Location dataset.
+Here is the screenshot of the sample dataset:
+![dataframe screenshot1](https://github.com/akshatsinghal92/Coursera_Capstone/blob/master/Images/df_2.JPG)
+
+
+
 **In general, I will be using these two datasets to solve the business problem of finding the best place to open a restaurant within Toronto**
