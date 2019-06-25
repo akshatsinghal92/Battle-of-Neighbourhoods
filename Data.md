@@ -22,7 +22,7 @@ Using the Foursquare location data, I can get information about these venues and
 
 We will use the geographical coordinates from above dataset to generate this Location dataset.
 Here is the screenshot of the sample dataset:
-![dataframe screenshot1](https://github.com/akshatsinghal92/Coursera_Capstone/blob/master/Images/df_2.JPG)
+![dataframe screenshot1](https://github.com/akshatsinghal92/Coursera_Capstone/blob/master/Images/df_3.JPG)
 
 
 
