@@ -9,6 +9,9 @@ After preprocessing the table and adding two more columns of Latitude and Longit
 Final DataFrame will have 5 columns: Postal Code, Borough, Neighbourhood, Latitude, Longitude.
 And it will contain 103 rows having 103 unique neighbourhoods of Toronto and 5 unique Boroughs.
 
+Here is a screenshot of first five rows of the final dataframe:
+![dataframe screenshot](https://github.com/vibhor98/SocialCops-Data-Science-Intern-Challenge/blob/master/Images/monthly_prices_boxplot%20.png)
+
 ### Second Dataset: List of different venues in the neighbourhoods of Toronto:
 
 This dataset will be formed using the Foursquare API. I will use the Foursquare location data to explore different venues in each neighbourhood of Toronto.
