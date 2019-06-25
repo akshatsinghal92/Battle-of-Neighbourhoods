@@ -1,6 +1,6 @@
-# BUSINESS PROBLEM:
+## BUSINESS PROBLEM:
 
-##Restaurant in Toronto:
+### Restaurant in Toronto:
 
 A chain of restaurant owners in Ontario, Canada want to expand their business.
 Currently they have their restaurants in cities like Ottawa, Brampton and Hamilton.
