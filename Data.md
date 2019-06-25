@@ -22,8 +22,10 @@ Using the Foursquare location data, I can get information about these venues and
 
 We will use the geographical coordinates from above dataset to generate this Location dataset.
 Here is the screenshot of the sample dataset:
+
 ![dataframe screenshot1](https://github.com/akshatsinghal92/Coursera_Capstone/blob/master/Images/df_3.JPG)
 
+For example, First row contains Neighbourhood named **Battery Park city** with its respective 5 most common venues which are Park, Coffee shop, Hotel, Gym and Memorial site.
 
 
 **In general, I will be using these two datasets to solve the business problem of finding the best place to open a restaurant within Toronto**
